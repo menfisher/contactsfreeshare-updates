@@ -1,20 +1,20 @@
 {
   "format": "contactsfreeshare.app_update.v1",
-  "latest_version": "1.11",
-  "release_date": "2026-05-12",
-  "notes": "install package creation\u201c",
+  "latest_version": "1.12",
+  "release_date": "2026-05-13",
+  "notes": "fixed faulty Upload button\u201c",
   "packages": {
     "mac": {
       "label": "Mac",
-      "filename": "ContactsFreeShare-1.11-mac.zip",
-      "download_url": "ContactsFreeShare-1.11-mac.zip",
+      "filename": "ContactsFreeShare-1.12-mac.zip",
+      "download_url": "ContactsFreeShare-1.12-mac.zip",
       "file_id": "",
       "mime_type": "application/zip"
     },
     "windows": {
       "label": "Windows",
-      "filename": "ContactsFreeShare-1.11-windows.zip",
-      "download_url": "ContactsFreeShare-1.11-windows.zip",
+      "filename": "ContactsFreeShare-1.12-windows.zip",
+      "download_url": "ContactsFreeShare-1.12-windows.zip",
       "file_id": "",
       "mime_type": "application/zip"
     }
