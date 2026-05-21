@@ -1,20 +1,20 @@
 {
   "format": "contactsfreeshare.app_update.v1",
-  "latest_version": "1.12",
+  "latest_version": "1.142",
   "release_date": "2026-05-21",
-  "notes": "Removed unsafe Quit app menu item",
+  "notes": "Testing phase completed",
   "packages": {
     "mac": {
       "label": "Mac",
-      "filename": "ContactsFreeShare-1.12-mac.zip",
-      "download_url": "ContactsFreeShare-1.12-mac.zip",
+      "filename": "ContactsFreeShare-1.142-mac.zip",
+      "download_url": "ContactsFreeShare-1.142-mac.zip",
       "file_id": "",
       "mime_type": "application/zip"
     },
     "windows": {
       "label": "Windows",
-      "filename": "ContactsFreeShare-1.12-windows.zip",
-      "download_url": "ContactsFreeShare-1.12-windows.zip",
+      "filename": "ContactsFreeShare-1.142-windows.zip",
+      "download_url": "ContactsFreeShare-1.142-windows.zip",
       "file_id": "",
       "mime_type": "application/zip"
     }
