@@ -1,20 +1,20 @@
 {
   "format": "contactsfreeshare.app_update.v1",
-  "latest_version": "1.12",
-  "release_date": "2026-05-13",
-  "notes": "fixed faulty Upload button\u201c",
+  "latest_version": "1.14",
+  "release_date": "2026-05-21",
+  "notes": "Fix Google sync status, prune edit logs, and clarify app update state.",
   "packages": {
     "mac": {
       "label": "Mac",
-      "filename": "ContactsFreeShare-1.12-mac.zip",
-      "download_url": "ContactsFreeShare-1.12-mac.zip",
+      "filename": "ContactsFreeShare-1.14-mac.zip",
+      "download_url": "ContactsFreeShare-1.14-mac.zip",
       "file_id": "",
       "mime_type": "application/zip"
     },
     "windows": {
       "label": "Windows",
-      "filename": "ContactsFreeShare-1.12-windows.zip",
-      "download_url": "ContactsFreeShare-1.12-windows.zip",
+      "filename": "ContactsFreeShare-1.14-windows.zip",
+      "download_url": "ContactsFreeShare-1.14-windows.zip",
       "file_id": "",
       "mime_type": "application/zip"
     }
