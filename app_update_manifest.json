@@ -1,20 +1,20 @@
 {
   "format": "contactsfreeshare.app_update.v1",
-  "latest_version": "1.15",
+  "latest_version": "1.151",
   "release_date": "2026-05-22",
-  "notes": "Fixed Google Picker for files.",
+  "notes": "new test",
   "packages": {
     "mac": {
       "label": "Mac",
-      "filename": "ContactsFreeShare-1.15-mac.zip",
-      "download_url": "ContactsFreeShare-1.15-mac.zip",
+      "filename": "ContactsFreeShare-1.151-mac.zip",
+      "download_url": "ContactsFreeShare-1.151-mac.zip",
       "file_id": "",
       "mime_type": "application/zip"
     },
     "windows": {
       "label": "Windows",
-      "filename": "ContactsFreeShare-1.15-windows.zip",
-      "download_url": "ContactsFreeShare-1.15-windows.zip",
+      "filename": "ContactsFreeShare-1.151-windows.zip",
+      "download_url": "ContactsFreeShare-1.151-windows.zip",
       "file_id": "",
       "mime_type": "application/zip"
     }
