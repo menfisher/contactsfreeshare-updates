@@ -1,20 +1,20 @@
 {
   "format": "contactsfreeshare.app_update.v1",
-  "latest_version": "1.158",
+  "latest_version": "1.159",
   "release_date": "2026-05-22",
-  "notes": "Fix one-click upload completion so Google contact changes continue through Drive export without stale retry banners.",
+  "notes": "Fix MeetingData Editor column-flow alignment so center and right aligned columns render correctly.",
   "packages": {
     "mac": {
       "label": "Mac",
-      "filename": "ContactsFreeShare-1.158-mac.zip",
-      "download_url": "ContactsFreeShare-1.158-mac.zip",
+      "filename": "ContactsFreeShare-1.159-mac.zip",
+      "download_url": "ContactsFreeShare-1.159-mac.zip",
       "file_id": "",
       "mime_type": "application/zip"
     },
     "windows": {
       "label": "Windows",
-      "filename": "ContactsFreeShare-1.158-windows.zip",
-      "download_url": "ContactsFreeShare-1.158-windows.zip",
+      "filename": "ContactsFreeShare-1.159-windows.zip",
+      "download_url": "ContactsFreeShare-1.159-windows.zip",
       "file_id": "",
       "mime_type": "application/zip"
     }
