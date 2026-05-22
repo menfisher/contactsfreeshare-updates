@@ -2,7 +2,7 @@
   "format": "contactsfreeshare.app_update.v1",
   "latest_version": "1.151",
   "release_date": "2026-05-22",
-  "notes": "new test",
+  "notes": "Fix Mac package dependency install by bundling required Python wheels.",
   "packages": {
     "mac": {
       "label": "Mac",
