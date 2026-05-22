@@ -1,20 +1,20 @@
 {
   "format": "contactsfreeshare.app_update.v1",
-  "latest_version": "1.154",
+  "latest_version": "1.155",
   "release_date": "2026-05-22",
-  "notes": "Persist public update revisions on the App Revisions page.",
+  "notes": "Force Contacts page refresh after clean upload to clear stale banners.",
   "packages": {
     "mac": {
       "label": "Mac",
-      "filename": "ContactsFreeShare-1.154-mac.zip",
-      "download_url": "ContactsFreeShare-1.154-mac.zip",
+      "filename": "ContactsFreeShare-1.155-mac.zip",
+      "download_url": "ContactsFreeShare-1.155-mac.zip",
       "file_id": "",
       "mime_type": "application/zip"
     },
     "windows": {
       "label": "Windows",
-      "filename": "ContactsFreeShare-1.154-windows.zip",
-      "download_url": "ContactsFreeShare-1.154-windows.zip",
+      "filename": "ContactsFreeShare-1.155-windows.zip",
+      "download_url": "ContactsFreeShare-1.155-windows.zip",
       "file_id": "",
       "mime_type": "application/zip"
     }
