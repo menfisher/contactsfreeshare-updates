@@ -1,20 +1,20 @@
 {
   "format": "contactsfreeshare.app_update.v1",
-  "latest_version": "1.161",
-  "release_date": "2026-05-22",
-  "notes": "Fix Field List and Address Book alignment, improve Editor timeout warnings, and show more App Revisions.",
+  "latest_version": "1.162",
+  "release_date": "2026-05-23",
+  "notes": "Add Editor Completed action for Changes List items and remove old tracked package zips.",
   "packages": {
     "mac": {
       "label": "Mac",
-      "filename": "ContactsFreeShare-1.161-mac.zip",
-      "download_url": "ContactsFreeShare-1.161-mac.zip",
+      "filename": "ContactsFreeShare-1.162-mac.zip",
+      "download_url": "ContactsFreeShare-1.162-mac.zip",
       "file_id": "",
       "mime_type": "application/zip"
     },
     "windows": {
       "label": "Windows",
-      "filename": "ContactsFreeShare-1.161-windows.zip",
-      "download_url": "ContactsFreeShare-1.161-windows.zip",
+      "filename": "ContactsFreeShare-1.162-windows.zip",
+      "download_url": "ContactsFreeShare-1.162-windows.zip",
       "file_id": "",
       "mime_type": "application/zip"
     }
