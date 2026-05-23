@@ -1,20 +1,20 @@
 {
   "format": "contactsfreeshare.app_update.v1",
-  "latest_version": "1.162",
+  "latest_version": "1.163",
   "release_date": "2026-05-23",
-  "notes": "Add Editor Completed action for Changes List items and remove old tracked package zips.",
+  "notes": "Fix Changes List Completed button selection and hide it for non-Editors.",
   "packages": {
     "mac": {
       "label": "Mac",
-      "filename": "ContactsFreeShare-1.162-mac.zip",
-      "download_url": "ContactsFreeShare-1.162-mac.zip",
+      "filename": "ContactsFreeShare-1.163-mac.zip",
+      "download_url": "ContactsFreeShare-1.163-mac.zip",
       "file_id": "",
       "mime_type": "application/zip"
     },
     "windows": {
       "label": "Windows",
-      "filename": "ContactsFreeShare-1.162-windows.zip",
-      "download_url": "ContactsFreeShare-1.162-windows.zip",
+      "filename": "ContactsFreeShare-1.163-windows.zip",
+      "download_url": "ContactsFreeShare-1.163-windows.zip",
       "file_id": "",
       "mime_type": "application/zip"
     }
