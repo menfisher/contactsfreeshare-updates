@@ -1,20 +1,20 @@
 {
   "format": "contactsfreeshare.app_update.v1",
-  "latest_version": "1.165",
-  "release_date": "2026-05-23",
-  "notes": "Fix MeetingData column reorder saving and remove empty meetings after deleting rows.",
+  "latest_version": "1.166",
+  "release_date": "2026-05-24",
+  "notes": "Improve app update diagnostics and avoid full contacts snapshot writes after Drive sign-in sync.",
   "packages": {
     "mac": {
       "label": "Mac",
-      "filename": "ContactsFreeShare-1.165-mac.zip",
-      "download_url": "ContactsFreeShare-1.165-mac.zip",
+      "filename": "ContactsFreeShare-1.166-mac.zip",
+      "download_url": "ContactsFreeShare-1.166-mac.zip",
       "file_id": "",
       "mime_type": "application/zip"
     },
     "windows": {
       "label": "Windows",
-      "filename": "ContactsFreeShare-1.165-windows.zip",
-      "download_url": "ContactsFreeShare-1.165-windows.zip",
+      "filename": "ContactsFreeShare-1.166-windows.zip",
+      "download_url": "ContactsFreeShare-1.166-windows.zip",
       "file_id": "",
       "mime_type": "application/zip"
     }
