@@ -1,20 +1,20 @@
 {
   "format": "contactsfreeshare.app_update.v1",
-  "latest_version": "1.172",
+  "latest_version": "1.173",
   "release_date": "2026-05-27",
-  "notes": "Fix SQLite closed-database error on Windows when opening GoogleConnect with stale sync state.",
+  "notes": "Fix Share Contacts link \u2014 use live Cloud Run URL instead of unmapped share.contactsfreeshare.org.",
   "packages": {
     "mac": {
       "label": "Mac",
-      "filename": "ContactsFreeShare-1.172-mac.zip",
-      "download_url": "ContactsFreeShare-1.172-mac.zip",
+      "filename": "ContactsFreeShare-1.173-mac.zip",
+      "download_url": "ContactsFreeShare-1.173-mac.zip",
       "file_id": "",
       "mime_type": "application/zip"
     },
     "windows": {
       "label": "Windows",
-      "filename": "ContactsFreeShare-1.172-windows.zip",
-      "download_url": "ContactsFreeShare-1.172-windows.zip",
+      "filename": "ContactsFreeShare-1.173-windows.zip",
+      "download_url": "ContactsFreeShare-1.173-windows.zip",
       "file_id": "",
       "mime_type": "application/zip"
     }
