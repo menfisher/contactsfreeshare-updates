@@ -1,20 +1,20 @@
 {
   "format": "contactsfreeshare.app_update.v1",
-  "latest_version": "1.171",
+  "latest_version": "1.172",
   "release_date": "2026-05-27",
-  "notes": "Share app persistence and recovery, faster large-group imports, latest stable Python on demand",
+  "notes": "Fix SQLite closed-database error on Windows when opening GoogleConnect with stale sync state.",
   "packages": {
     "mac": {
       "label": "Mac",
-      "filename": "ContactsFreeShare-1.171-mac.zip",
-      "download_url": "ContactsFreeShare-1.171-mac.zip",
+      "filename": "ContactsFreeShare-1.172-mac.zip",
+      "download_url": "ContactsFreeShare-1.172-mac.zip",
       "file_id": "",
       "mime_type": "application/zip"
     },
     "windows": {
       "label": "Windows",
-      "filename": "ContactsFreeShare-1.171-windows.zip",
-      "download_url": "ContactsFreeShare-1.171-windows.zip",
+      "filename": "ContactsFreeShare-1.172-windows.zip",
+      "download_url": "ContactsFreeShare-1.172-windows.zip",
       "file_id": "",
       "mime_type": "application/zip"
     }
