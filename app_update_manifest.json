@@ -1,20 +1,20 @@
 {
   "format": "contactsfreeshare.app_update.v1",
-  "latest_version": "1.177",
+  "latest_version": "1.178",
   "release_date": "2026-05-28",
-  "notes": "Windows share auth bridge fix, Share API key in packages, and Editor password autofill prevention.",
+  "notes": "Fix Windows in-app update so ContactsFreeShare restarts automatically after installing an update.",
   "packages": {
     "mac": {
       "label": "Mac",
-      "filename": "ContactsFreeShare-1.177-mac.zip",
-      "download_url": "ContactsFreeShare-1.177-mac.zip",
+      "filename": "ContactsFreeShare-1.178-mac.zip",
+      "download_url": "ContactsFreeShare-1.178-mac.zip",
       "file_id": "",
       "mime_type": "application/zip"
     },
     "windows": {
       "label": "Windows",
-      "filename": "ContactsFreeShare-1.177-windows.zip",
-      "download_url": "ContactsFreeShare-1.177-windows.zip",
+      "filename": "ContactsFreeShare-1.178-windows.zip",
+      "download_url": "ContactsFreeShare-1.178-windows.zip",
       "file_id": "",
       "mime_type": "application/zip"
     }
