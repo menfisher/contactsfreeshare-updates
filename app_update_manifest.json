@@ -1,20 +1,20 @@
 {
   "format": "contactsfreeshare.app_update.v1",
-  "latest_version": "1.186",
+  "latest_version": "1.187",
   "release_date": "2026-05-28",
-  "notes": "Fix Mac Python 3.14 offline install (MarkupSafe wheels). Share sync recreates contacts when recipient copy was deleted.",
+  "notes": "App Revisions page now shows complete published version history from the bundled release log.",
   "packages": {
     "mac": {
       "label": "Mac",
-      "filename": "ContactsFreeShare-1.186-mac.zip",
-      "download_url": "ContactsFreeShare-1.186-mac.zip",
+      "filename": "ContactsFreeShare-1.187-mac.zip",
+      "download_url": "ContactsFreeShare-1.187-mac.zip",
       "file_id": "",
       "mime_type": "application/zip"
     },
     "windows": {
       "label": "Windows",
-      "filename": "ContactsFreeShare-1.186-windows.zip",
-      "download_url": "ContactsFreeShare-1.186-windows.zip",
+      "filename": "ContactsFreeShare-1.187-windows.zip",
+      "download_url": "ContactsFreeShare-1.187-windows.zip",
       "file_id": "",
       "mime_type": "application/zip"
     }
