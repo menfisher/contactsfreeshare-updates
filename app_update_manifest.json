@@ -1,20 +1,20 @@
 {
   "format": "contactsfreeshare.app_update.v1",
-  "latest_version": "1.174",
+  "latest_version": "1.175",
   "release_date": "2026-05-28",
-  "notes": "Open Share Contacts with the same Google account already signed into CFS.",
+  "notes": "Google Connect access roles and non-Editor sign-in; CFS share auth bridge and navigation updates; compact field list comma spacing fix.",
   "packages": {
     "mac": {
       "label": "Mac",
-      "filename": "ContactsFreeShare-1.174-mac.zip",
-      "download_url": "ContactsFreeShare-1.174-mac.zip",
+      "filename": "ContactsFreeShare-1.175-mac.zip",
+      "download_url": "ContactsFreeShare-1.175-mac.zip",
       "file_id": "",
       "mime_type": "application/zip"
     },
     "windows": {
       "label": "Windows",
-      "filename": "ContactsFreeShare-1.174-windows.zip",
-      "download_url": "ContactsFreeShare-1.174-windows.zip",
+      "filename": "ContactsFreeShare-1.175-windows.zip",
+      "download_url": "ContactsFreeShare-1.175-windows.zip",
       "file_id": "",
       "mime_type": "application/zip"
     }
