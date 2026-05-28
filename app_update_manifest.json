@@ -1,20 +1,20 @@
 {
   "format": "contactsfreeshare.app_update.v1",
-  "latest_version": "1.181",
+  "latest_version": "1.182",
   "release_date": "2026-05-28",
-  "notes": "Fix Windows Python detection: check Python313 path directly in batch, skip WindowsApps stub, keep PowerShell as fallback.",
+  "notes": "Fix Share Contacts auth bridge: pass CFS OAuth client to share app so Google sign-in is skipped when already connected in CFS.",
   "packages": {
     "mac": {
       "label": "Mac",
-      "filename": "ContactsFreeShare-1.181-mac.zip",
-      "download_url": "ContactsFreeShare-1.181-mac.zip",
+      "filename": "ContactsFreeShare-1.182-mac.zip",
+      "download_url": "ContactsFreeShare-1.182-mac.zip",
       "file_id": "",
       "mime_type": "application/zip"
     },
     "windows": {
       "label": "Windows",
-      "filename": "ContactsFreeShare-1.181-windows.zip",
-      "download_url": "ContactsFreeShare-1.181-windows.zip",
+      "filename": "ContactsFreeShare-1.182-windows.zip",
+      "download_url": "ContactsFreeShare-1.182-windows.zip",
       "file_id": "",
       "mime_type": "application/zip"
     }
