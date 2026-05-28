@@ -1,20 +1,20 @@
 {
   "format": "contactsfreeshare.app_update.v1",
-  "latest_version": "1.175",
+  "latest_version": "1.176",
   "release_date": "2026-05-28",
-  "notes": "Google Connect access roles and non-Editor sign-in; CFS share auth bridge and navigation updates; compact field list comma spacing fix.",
+  "notes": "Share Contacts nav limited to Editor sign-in with live nav refresh after role changes.",
   "packages": {
     "mac": {
       "label": "Mac",
-      "filename": "ContactsFreeShare-1.175-mac.zip",
-      "download_url": "ContactsFreeShare-1.175-mac.zip",
+      "filename": "ContactsFreeShare-1.176-mac.zip",
+      "download_url": "ContactsFreeShare-1.176-mac.zip",
       "file_id": "",
       "mime_type": "application/zip"
     },
     "windows": {
       "label": "Windows",
-      "filename": "ContactsFreeShare-1.175-windows.zip",
-      "download_url": "ContactsFreeShare-1.175-windows.zip",
+      "filename": "ContactsFreeShare-1.176-windows.zip",
+      "download_url": "ContactsFreeShare-1.176-windows.zip",
       "file_id": "",
       "mime_type": "application/zip"
     }
