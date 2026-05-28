@@ -2,7 +2,7 @@
   "format": "contactsfreeshare.app_update.v1",
   "latest_version": "1.182",
   "release_date": "2026-05-28",
-  "notes": "Fix Share Contacts auth bridge: pass CFS OAuth client to share app so Google sign-in is skipped when already connected in CFS.",
+  "notes": "Fix Windows fresh-install crash, offline pip install, Python detection, share auth bridge, and diagnostic log paths.",
   "packages": {
     "mac": {
       "label": "Mac",
