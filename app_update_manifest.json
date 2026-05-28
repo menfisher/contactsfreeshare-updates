@@ -1,20 +1,20 @@
 {
   "format": "contactsfreeshare.app_update.v1",
-  "latest_version": "1.184",
+  "latest_version": "1.185",
   "release_date": "2026-05-28",
-  "notes": "Fix Windows in-app update when files are locked; use robocopy fallback on shared Desktop paths.",
+  "notes": "Share app fixes: clear sync button when a group is unshared, and dismiss top notices after Sync or unshare.",
   "packages": {
     "mac": {
       "label": "Mac",
-      "filename": "ContactsFreeShare-1.184-mac.zip",
-      "download_url": "ContactsFreeShare-1.184-mac.zip",
+      "filename": "ContactsFreeShare-1.185-mac.zip",
+      "download_url": "ContactsFreeShare-1.185-mac.zip",
       "file_id": "",
       "mime_type": "application/zip"
     },
     "windows": {
       "label": "Windows",
-      "filename": "ContactsFreeShare-1.184-windows.zip",
-      "download_url": "ContactsFreeShare-1.184-windows.zip",
+      "filename": "ContactsFreeShare-1.185-windows.zip",
+      "download_url": "ContactsFreeShare-1.185-windows.zip",
       "file_id": "",
       "mime_type": "application/zip"
     }
