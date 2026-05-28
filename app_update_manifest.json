@@ -1,20 +1,20 @@
 {
   "format": "contactsfreeshare.app_update.v1",
-  "latest_version": "1.182",
+  "latest_version": "1.183",
   "release_date": "2026-05-28",
-  "notes": "Fix Windows fresh-install crash, offline pip install, Python detection, share auth bridge, and diagnostic log paths.",
+  "notes": "Leaner Mac and Windows install packages: dedupe vendor wheels and bundle only platform-specific wheels.",
   "packages": {
     "mac": {
       "label": "Mac",
-      "filename": "ContactsFreeShare-1.182-mac.zip",
-      "download_url": "ContactsFreeShare-1.182-mac.zip",
+      "filename": "ContactsFreeShare-1.183-mac.zip",
+      "download_url": "ContactsFreeShare-1.183-mac.zip",
       "file_id": "",
       "mime_type": "application/zip"
     },
     "windows": {
       "label": "Windows",
-      "filename": "ContactsFreeShare-1.182-windows.zip",
-      "download_url": "ContactsFreeShare-1.182-windows.zip",
+      "filename": "ContactsFreeShare-1.183-windows.zip",
+      "download_url": "ContactsFreeShare-1.183-windows.zip",
       "file_id": "",
       "mime_type": "application/zip"
     }
