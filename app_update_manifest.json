@@ -1,20 +1,20 @@
 {
   "format": "contactsfreeshare.app_update.v1",
-  "latest_version": "1.179",
+  "latest_version": "1.180",
   "release_date": "2026-05-28",
-  "notes": "Fix Windows fresh-install crash, offline dependency install, and Python version detection; use newest installed Python on Mac and Windows; show full diagnostic log paths.",
+  "notes": "Fix Windows launcher Python detection (broken inline PowerShell quoting caused '\" \"' command error).",
   "packages": {
     "mac": {
       "label": "Mac",
-      "filename": "ContactsFreeShare-1.179-mac.zip",
-      "download_url": "ContactsFreeShare-1.179-mac.zip",
+      "filename": "ContactsFreeShare-1.180-mac.zip",
+      "download_url": "ContactsFreeShare-1.180-mac.zip",
       "file_id": "",
       "mime_type": "application/zip"
     },
     "windows": {
       "label": "Windows",
-      "filename": "ContactsFreeShare-1.179-windows.zip",
-      "download_url": "ContactsFreeShare-1.179-windows.zip",
+      "filename": "ContactsFreeShare-1.180-windows.zip",
+      "download_url": "ContactsFreeShare-1.180-windows.zip",
       "file_id": "",
       "mime_type": "application/zip"
     }
