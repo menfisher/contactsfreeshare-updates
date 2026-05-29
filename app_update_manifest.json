@@ -1,20 +1,20 @@
 {
   "format": "contactsfreeshare.app_update.v1",
-  "latest_version": "1.189",
-  "release_date": "2026-05-28",
-  "notes": "Clear stale share sync messages when switching Google accounts.",
+  "latest_version": "1.190",
+  "release_date": "2026-05-29",
+  "notes": "Fix add field/meeting filters; Share app recipient invite connect, email labels, and OAuth reconnect.",
   "packages": {
     "mac": {
       "label": "Mac",
-      "filename": "ContactsFreeShare-1.189-mac.zip",
-      "download_url": "ContactsFreeShare-1.189-mac.zip",
+      "filename": "ContactsFreeShare-1.190-mac.zip",
+      "download_url": "ContactsFreeShare-1.190-mac.zip",
       "file_id": "",
       "mime_type": "application/zip"
     },
     "windows": {
       "label": "Windows",
-      "filename": "ContactsFreeShare-1.189-windows.zip",
-      "download_url": "ContactsFreeShare-1.189-windows.zip",
+      "filename": "ContactsFreeShare-1.190-windows.zip",
+      "download_url": "ContactsFreeShare-1.190-windows.zip",
       "file_id": "",
       "mime_type": "application/zip"
     }
