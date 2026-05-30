@@ -1,20 +1,20 @@
 {
   "format": "contactsfreeshare.app_update.v1",
-  "latest_version": "1.190",
-  "release_date": "2026-05-29",
-  "notes": "Fix add field/meeting filters; Share app recipient invite connect, email labels, and OAuth reconnect.",
+  "latest_version": "1.191",
+  "release_date": "2026-05-30",
+  "notes": "Address book preview/print alignment: relationship suffix formatting, phone row pairing, TOC meeting headings, and layout font honored in PDF. Field meeting filters scoped to contacts in each field.",
   "packages": {
     "mac": {
       "label": "Mac",
-      "filename": "ContactsFreeShare-1.190-mac.zip",
-      "download_url": "ContactsFreeShare-1.190-mac.zip",
+      "filename": "ContactsFreeShare-1.191-mac.zip",
+      "download_url": "ContactsFreeShare-1.191-mac.zip",
       "file_id": "",
       "mime_type": "application/zip"
     },
     "windows": {
       "label": "Windows",
-      "filename": "ContactsFreeShare-1.190-windows.zip",
-      "download_url": "ContactsFreeShare-1.190-windows.zip",
+      "filename": "ContactsFreeShare-1.191-windows.zip",
+      "download_url": "ContactsFreeShare-1.191-windows.zip",
       "file_id": "",
       "mime_type": "application/zip"
     }
