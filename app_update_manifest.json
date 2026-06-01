@@ -1,20 +1,20 @@
 {
   "format": "contactsfreeshare.app_update.v1",
-  "latest_version": "1.191",
-  "release_date": "2026-05-30",
-  "notes": "Address book preview/print alignment: relationship suffix formatting, phone row pairing, TOC meeting headings, and layout font honored in PDF. Field meeting filters scoped to contacts in each field.",
+  "latest_version": "1.192",
+  "release_date": "2026-06-01",
+  "notes": "Add parent_value database migration for field-scoped meeting filters; fixes Drive sync error on older installs. Includes recent sync, PDF, and address book layout improvements.",
   "packages": {
     "mac": {
       "label": "Mac",
-      "filename": "ContactsFreeShare-1.191-mac.zip",
-      "download_url": "ContactsFreeShare-1.191-mac.zip",
+      "filename": "ContactsFreeShare-1.192-mac.zip",
+      "download_url": "ContactsFreeShare-1.192-mac.zip",
       "file_id": "",
       "mime_type": "application/zip"
     },
     "windows": {
       "label": "Windows",
-      "filename": "ContactsFreeShare-1.191-windows.zip",
-      "download_url": "ContactsFreeShare-1.191-windows.zip",
+      "filename": "ContactsFreeShare-1.192-windows.zip",
+      "download_url": "ContactsFreeShare-1.192-windows.zip",
       "file_id": "",
       "mime_type": "application/zip"
     }
