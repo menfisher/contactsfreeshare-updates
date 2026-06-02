@@ -1,20 +1,20 @@
 {
   "format": "contactsfreeshare.app_update.v1",
-  "latest_version": "1.193",
-  "release_date": "2026-06-01",
-  "notes": "Fix blank pages before meeting tables, PDF address italic and map links, share OAuth and database lock fixes, and mobile contacts viewer.",
+  "latest_version": "1.194",
+  "release_date": "2026-06-02",
+  "notes": "Compact contact edit layout with custom fields under assignments, smaller Google photo button, and meeting PDF table keep-together fix.",
   "packages": {
     "mac": {
       "label": "Mac",
-      "filename": "ContactsFreeShare-1.193-mac.zip",
-      "download_url": "ContactsFreeShare-1.193-mac.zip",
+      "filename": "ContactsFreeShare-1.194-mac.zip",
+      "download_url": "ContactsFreeShare-1.194-mac.zip",
       "file_id": "",
       "mime_type": "application/zip"
     },
     "windows": {
       "label": "Windows",
-      "filename": "ContactsFreeShare-1.193-windows.zip",
-      "download_url": "ContactsFreeShare-1.193-windows.zip",
+      "filename": "ContactsFreeShare-1.194-windows.zip",
+      "download_url": "ContactsFreeShare-1.194-windows.zip",
       "file_id": "",
       "mime_type": "application/zip"
     }
