@@ -1,20 +1,20 @@
 {
   "format": "contactsfreeshare.app_update.v1",
-  "latest_version": "1.197",
+  "latest_version": "1.198",
   "release_date": "2026-06-07",
-  "notes": "Share recipient photo import and Cloud Run DB fixes; desktop sign-in sync skips stale Drive re-imports; mobile detail Drive sync and pending-edit improvements.",
+  "notes": "MeetingData stacked column editor layout, rich text preservation, and print alignment fixes.",
   "packages": {
     "mac": {
       "label": "Mac",
-      "filename": "ContactsFreeShare-1.197-mac.zip",
-      "download_url": "ContactsFreeShare-1.197-mac.zip",
+      "filename": "ContactsFreeShare-1.198-mac.zip",
+      "download_url": "ContactsFreeShare-1.198-mac.zip",
       "file_id": "",
       "mime_type": "application/zip"
     },
     "windows": {
       "label": "Windows",
-      "filename": "ContactsFreeShare-1.197-windows.zip",
-      "download_url": "ContactsFreeShare-1.197-windows.zip",
+      "filename": "ContactsFreeShare-1.198-windows.zip",
+      "download_url": "ContactsFreeShare-1.198-windows.zip",
       "file_id": "",
       "mime_type": "application/zip"
     }
