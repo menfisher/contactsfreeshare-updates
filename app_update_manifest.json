@@ -1,20 +1,20 @@
 {
   "format": "contactsfreeshare.app_update.v1",
-  "latest_version": "1.196",
-  "release_date": "2026-06-05",
-  "notes": "Mobile OAuth and editor lock fixes; Drive shared app-field sync for meeting home/elder without contact edits; upload queue orphan handling; mobile refresh and Cloud Run custom domain.",
+  "latest_version": "1.197",
+  "release_date": "2026-06-07",
+  "notes": "Share recipient photo import and Cloud Run DB fixes; desktop sign-in sync skips stale Drive re-imports; mobile detail Drive sync and pending-edit improvements.",
   "packages": {
     "mac": {
       "label": "Mac",
-      "filename": "ContactsFreeShare-1.196-mac.zip",
-      "download_url": "ContactsFreeShare-1.196-mac.zip",
+      "filename": "ContactsFreeShare-1.197-mac.zip",
+      "download_url": "ContactsFreeShare-1.197-mac.zip",
       "file_id": "",
       "mime_type": "application/zip"
     },
     "windows": {
       "label": "Windows",
-      "filename": "ContactsFreeShare-1.196-windows.zip",
-      "download_url": "ContactsFreeShare-1.196-windows.zip",
+      "filename": "ContactsFreeShare-1.197-windows.zip",
+      "download_url": "ContactsFreeShare-1.197-windows.zip",
       "file_id": "",
       "mime_type": "application/zip"
     }
