@@ -1,20 +1,20 @@
 {
   "format": "contactsfreeshare.app_update.v1",
-  "latest_version": "1.198",
-  "release_date": "2026-06-07",
-  "notes": "MeetingData stacked column editor layout, rich text preservation, and print alignment fixes.",
+  "latest_version": "1.199",
+  "release_date": "2026-06-08",
+  "notes": "Configurable shared contacts group name and Google Drive folder picker fixes.",
   "packages": {
     "mac": {
       "label": "Mac",
-      "filename": "ContactsFreeShare-1.198-mac.zip",
-      "download_url": "ContactsFreeShare-1.198-mac.zip",
+      "filename": "ContactsFreeShare-1.199-mac.zip",
+      "download_url": "ContactsFreeShare-1.199-mac.zip",
       "file_id": "",
       "mime_type": "application/zip"
     },
     "windows": {
       "label": "Windows",
-      "filename": "ContactsFreeShare-1.198-windows.zip",
-      "download_url": "ContactsFreeShare-1.198-windows.zip",
+      "filename": "ContactsFreeShare-1.199-windows.zip",
+      "download_url": "ContactsFreeShare-1.199-windows.zip",
       "file_id": "",
       "mime_type": "application/zip"
     }
