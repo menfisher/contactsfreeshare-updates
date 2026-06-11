@@ -1,20 +1,20 @@
 {
   "format": "contactsfreeshare.app_update.v1",
-  "latest_version": "1.201",
-  "release_date": "2026-06-09",
-  "notes": "Fix Editor timeout extend loop, Drive sync edit-log ID collisions after remote updates, and faster lock extension.",
+  "latest_version": "1.202",
+  "release_date": "2026-06-11",
+  "notes": "Smaller Mac and Windows update packages; PyMuPDF downloads automatically on first PDF insert use.",
   "packages": {
     "mac": {
       "label": "Mac",
-      "filename": "ContactsFreeShare-1.201-mac.zip",
-      "download_url": "ContactsFreeShare-1.201-mac.zip",
+      "filename": "ContactsFreeShare-1.202-mac.zip",
+      "download_url": "ContactsFreeShare-1.202-mac.zip",
       "file_id": "",
       "mime_type": "application/zip"
     },
     "windows": {
       "label": "Windows",
-      "filename": "ContactsFreeShare-1.201-windows.zip",
-      "download_url": "ContactsFreeShare-1.201-windows.zip",
+      "filename": "ContactsFreeShare-1.202-windows.zip",
+      "download_url": "ContactsFreeShare-1.202-windows.zip",
       "file_id": "",
       "mime_type": "application/zip"
     }
