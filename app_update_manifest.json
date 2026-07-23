@@ -1,0 +1,22 @@
+{
+  "format": "contactsfreeshare.app_update.v1",
+  "latest_version": "1.215",
+  "release_date": "2026-07-23",
+  "notes": "Host Help screenshots on GitHub Pages to keep update zips under size limits.",
+  "packages": {
+    "mac": {
+      "label": "Mac",
+      "filename": "ContactsFreeShare-1.215-mac.zip",
+      "download_url": "ContactsFreeShare-1.215-mac.zip",
+      "file_id": "",
+      "mime_type": "application/zip"
+    },
+    "windows": {
+      "label": "Windows",
+      "filename": "ContactsFreeShare-1.215-windows.zip",
+      "download_url": "ContactsFreeShare-1.215-windows.zip",
+      "file_id": "",
+      "mime_type": "application/zip"
+    }
+  }
+}
