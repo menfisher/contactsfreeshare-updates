@@ -1,0 +1,22 @@
+{
+  "format": "contactsfreeshare.app_update.v1",
+  "latest_version": "1.219",
+  "release_date": "2026-07-30",
+  "notes": "Keep the chosen Address Book cover picture filename visible under Choose picture until a new picture is selected.",
+  "packages": {
+    "mac": {
+      "label": "Mac",
+      "filename": "ContactsFreeShare-1.219-mac.zip",
+      "download_url": "ContactsFreeShare-1.219-mac.zip",
+      "file_id": "",
+      "mime_type": "application/zip"
+    },
+    "windows": {
+      "label": "Windows",
+      "filename": "ContactsFreeShare-1.219-windows.zip",
+      "download_url": "ContactsFreeShare-1.219-windows.zip",
+      "file_id": "",
+      "mime_type": "application/zip"
+    }
+  }
+}
