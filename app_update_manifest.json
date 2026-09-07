@@ -1,0 +1,22 @@
+{
+  "format": "contactsfreeshare.app_update.v1",
+  "latest_version": "1.220",
+  "release_date": "2026-09-07",
+  "notes": "Prevent leftover contacts after Google recreates a person, and wrap long addresses on Address Book and Field List printouts.",
+  "packages": {
+    "mac": {
+      "label": "Mac",
+      "filename": "ContactsFreeShare-1.220-mac.zip",
+      "download_url": "ContactsFreeShare-1.220-mac.zip",
+      "file_id": "",
+      "mime_type": "application/zip"
+    },
+    "windows": {
+      "label": "Windows",
+      "filename": "ContactsFreeShare-1.220-windows.zip",
+      "download_url": "ContactsFreeShare-1.220-windows.zip",
+      "file_id": "",
+      "mime_type": "application/zip"
+    }
+  }
+}
