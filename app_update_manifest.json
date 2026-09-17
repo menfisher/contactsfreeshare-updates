@@ -1,0 +1,22 @@
+{
+  "format": "contactsfreeshare.app_update.v1",
+  "latest_version": "1.223",
+  "release_date": "2026-09-17",
+  "notes": "Swap left and right margins on even pages for side-spiral paper books so the extra gutter stays on the bound edge.",
+  "packages": {
+    "mac": {
+      "label": "Mac",
+      "filename": "ContactsFreeShare-1.223-mac.zip",
+      "download_url": "ContactsFreeShare-1.223-mac.zip",
+      "file_id": "",
+      "mime_type": "application/zip"
+    },
+    "windows": {
+      "label": "Windows",
+      "filename": "ContactsFreeShare-1.223-windows.zip",
+      "download_url": "ContactsFreeShare-1.223-windows.zip",
+      "file_id": "",
+      "mime_type": "application/zip"
+    }
+  }
+}
