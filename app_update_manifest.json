@@ -1,0 +1,23 @@
+{
+  "format": "contactsfreeshare.app_update.v1",
+  "latest_version": "1.239",
+  "edition": "multi-editor",
+  "release_date": "2026-10-09",
+  "notes": "Raise the address book field/page footer off the cut edge without reflowing the contacts above it.",
+  "packages": {
+    "mac": {
+      "label": "Mac",
+      "filename": "ContactsFreeShare-MultiEditor-1.239-mac.zip",
+      "download_url": "ContactsFreeShare-MultiEditor-1.239-mac.zip",
+      "file_id": "",
+      "mime_type": "application/zip"
+    },
+    "windows": {
+      "label": "Windows",
+      "filename": "ContactsFreeShare-MultiEditor-1.239-windows.zip",
+      "download_url": "ContactsFreeShare-MultiEditor-1.239-windows.zip",
+      "file_id": "",
+      "mime_type": "application/zip"
+    }
+  }
+}
