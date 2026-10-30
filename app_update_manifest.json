@@ -1,0 +1,23 @@
+{
+  "format": "contactsfreeshare.app_update.v1",
+  "latest_version": "1.245",
+  "edition": "multi-editor",
+  "release_date": "2026-10-30",
+  "notes": "Address Book Size can be set for one Field + Meeting like Line spacing. Typography shows This meeting and a black reset at the front of Size or Line spacing. Font is a native dropdown. MeetingData has Book Layout and Row toolbar help.",
+  "packages": {
+    "mac": {
+      "label": "Mac",
+      "filename": "ContactsFreeShare-MultiEditor-1.245-mac.zip",
+      "download_url": "ContactsFreeShare-MultiEditor-1.245-mac.zip",
+      "file_id": "",
+      "mime_type": "application/zip"
+    },
+    "windows": {
+      "label": "Windows",
+      "filename": "ContactsFreeShare-MultiEditor-1.245-windows.zip",
+      "download_url": "ContactsFreeShare-MultiEditor-1.245-windows.zip",
+      "file_id": "",
+      "mime_type": "application/zip"
+    }
+  }
+}
