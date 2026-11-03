@@ -1,0 +1,23 @@
+{
+  "format": "contactsfreeshare.app_update.v1",
+  "latest_version": "1.248",
+  "edition": "multi-editor",
+  "release_date": "2026-11-03",
+  "notes": "Multi-Editor computers now load other Editors' contact edits from Drive on sign-in. Sign-out writes the live shared files so the Edit List is shared. An expired leftover Editor lock no longer blocks sign-in.",
+  "packages": {
+    "mac": {
+      "label": "Mac",
+      "filename": "ContactsFreeShare-MultiEditor-1.248-mac.zip",
+      "download_url": "ContactsFreeShare-MultiEditor-1.248-mac.zip",
+      "file_id": "",
+      "mime_type": "application/zip"
+    },
+    "windows": {
+      "label": "Windows",
+      "filename": "ContactsFreeShare-MultiEditor-1.248-windows.zip",
+      "download_url": "ContactsFreeShare-MultiEditor-1.248-windows.zip",
+      "file_id": "",
+      "mime_type": "application/zip"
+    }
+  }
+}
