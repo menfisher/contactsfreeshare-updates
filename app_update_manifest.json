@@ -1,0 +1,23 @@
+{
+  "format": "contactsfreeshare.app_update.v1",
+  "latest_version": "1.256",
+  "edition": "multi-editor",
+  "release_date": "2026-11-18",
+  "notes": "Roster fix entries in the Edit List now show as completed (green) instead of pending. The roster fix button, Import and Delete prompts for owner Google extras, and duplicate Share card cleanup from 1.255 are unchanged.",
+  "packages": {
+    "mac": {
+      "label": "Mac",
+      "filename": "ContactsFreeShare-MultiEditor-1.256-mac.zip",
+      "download_url": "ContactsFreeShare-MultiEditor-1.256-mac.zip",
+      "file_id": "",
+      "mime_type": "application/zip"
+    },
+    "windows": {
+      "label": "Windows",
+      "filename": "ContactsFreeShare-MultiEditor-1.256-windows.zip",
+      "download_url": "ContactsFreeShare-MultiEditor-1.256-windows.zip",
+      "file_id": "",
+      "mime_type": "application/zip"
+    }
+  }
+}
