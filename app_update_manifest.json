@@ -1,0 +1,23 @@
+{
+  "format": "contactsfreeshare.app_update.v1",
+  "latest_version": "1.262",
+  "edition": "multi-editor",
+  "release_date": "2026-11-26",
+  "notes": "Fix automatically shows live Drive progress (contact names and counts) while the roster fix runs. Recovers cleanly if the app reloads mid-fix.",
+  "packages": {
+    "mac": {
+      "label": "Mac",
+      "filename": "ContactsFreeShare-MultiEditor-1.262-mac.zip",
+      "download_url": "ContactsFreeShare-MultiEditor-1.262-mac.zip",
+      "file_id": "",
+      "mime_type": "application/zip"
+    },
+    "windows": {
+      "label": "Windows",
+      "filename": "ContactsFreeShare-MultiEditor-1.262-windows.zip",
+      "download_url": "ContactsFreeShare-MultiEditor-1.262-windows.zip",
+      "file_id": "",
+      "mime_type": "application/zip"
+    }
+  }
+}
